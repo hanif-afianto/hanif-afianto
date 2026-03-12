@@ -2,7 +2,11 @@
 
 ### 🚀 QA Automation Engineer | SDET | Builder of Productivity Tools
 
-I am a passionate **Quality Assurance Engineer** with a deep focus on **Software Development Engineer in Test (SDET)** patterns. I specialize in building robust automation frameworks that ensure software reliability and developer efficiency. Beyond testing, I enjoy crafting CLI tools in **Go** and **TypeScript** to automate repetitive workflows.
+Detail-oriented and passionate **QA Automation Engineer / SDET** with a strong focus on building robust automation frameworks. Skilled in designing comprehensive test strategies and engineering scalable solutions that ensure software reliability and optimize developer efficiency.
+
+Successfully contributed to high-quality product releases by maintaining extensive test coverage and collaborating closely with cross-functional teams including software developers, product owners, and stakeholders.
+
+Known for a developer-centric mindset and a keen interest in productivity. Beyond core testing, I am a builder who enjoys crafting powerful CLI tools in **Go** and **TypeScript** to automate complex, repetitive workflows and streamline development life cycles.
 
 ---
 
